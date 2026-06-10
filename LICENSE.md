@@ -1,4 +1,4 @@
-# 
+# Official AI Expense Tracker with NLP extensions. Featuring feature-extraction and AI-scalability — optimized for maximum performance.
 
 
 
